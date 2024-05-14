@@ -32,20 +32,6 @@ To run the code without preparing data, run this command:
 cd MLMC-USRNet
 python main.py
 ```
-
----
-
-## Run other baseline methods
-To run the code without preparing data, run this command:
-```bash
-cd DIPFKP
-python main.py
-```
-```bash
-cd BSRDM
-python demo_synthetic.py
-```
-
 ---
 
 
@@ -58,7 +44,6 @@ python prepare_dataset.py --model MLMC --sf 2 --dataset Set5
 
 
 Commonly used datasets can be downloaded [here](https://github.com/xinntao/BasicSR/blob/master/docs/DatasetPreparation.md#common-image-sr-datasets).
-
 
 
 ## Acknowledgement
